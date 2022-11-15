@@ -1,0 +1,13 @@
+{
+    "CornCob_Bot":{
+        "settings":{"lights":"off","home":"nobody"},
+        "channel":[
+            {"name":"tiwosslave","bWord":["nigg","nono"],"sCommand":[{"cmd":"!play","reply":"${js a=}","on":true}],"cCommand":[]}
+        ]
+    },
+    "other":{
+        "iamalexmoore":{},
+        "darthcenturian":{},
+        "nyanpuggles":{}
+    }
+}
